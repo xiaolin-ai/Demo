@@ -6,4 +6,7 @@ package org.example.demo;
  * @Description:
  */
 public class Test1 {
+    public static void main(String[] args) {
+
+    }
 }
